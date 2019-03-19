@@ -57,3 +57,6 @@ typings/
 # dotenv environment variables file
 .env
 
+# files for debug
+.vscode
+package-lock.json
